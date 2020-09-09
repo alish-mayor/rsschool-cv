@@ -1,1 +1,1 @@
-https://github.com/alish-mayor/rsschool-cv.git
+https://github.com/alish-mayor/rsschool-cv/cv.git

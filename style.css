@@ -22,7 +22,6 @@
 }
 
 .text{
-    /* background-color: blue; */
     float: left;
     width: 70%;
     padding-left: 50px;
@@ -37,6 +36,5 @@
 .image{
     padding: 30px;
     float: right;
-    /* background-color: red; */
     width: 30%;
 }

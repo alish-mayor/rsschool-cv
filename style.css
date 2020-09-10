@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.mainBlock{
+    padding-top: 20px;
+    max-width: 1024px;
+    margin: 0 auto;
+}
+
+.head-text{
+    text-align: center;
+}
+
+.cv{
+    padding-top: 50px;
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.text{
+    /* background-color: blue; */
+    float: left;
+    width: 70%;
+    padding-left: 50px;
+    font-size: 24px;
+    text-align: justify;
+}
+
+.text ol li{
+    margin-top: 20px;
+}
+
+.image{
+    padding: 30px;
+    float: right;
+    /* background-color: red; */
+    width: 30%;
+}
